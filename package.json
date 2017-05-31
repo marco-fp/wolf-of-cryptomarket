@@ -1,0 +1,20 @@
+{
+  "name": "wolf-of-crypto",
+  "version": "0.0.1",
+  "description": "Telegram bot that displays crypto-currencies market information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "telegram",
+    "bot"
+  ],
+  "author": "Marco Fernandez Pranno",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.16.1",
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
